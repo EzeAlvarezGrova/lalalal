@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+  line-height: 1.6;
+  font-family: "Quicksand", sans-serif;
+  padding: 0 1.5em;
+}
+
+body {
+  color: white;
+  font-family: arial;
+  text-align: center;
+  background: blue;
+}
+
+#container {
+  width: 70%;
+  padding: 1en;
+  text-align: left;
+  border: 1px solid red;
+  margin: 0 auto;
+}
+
+#container h1 {
+  font-size: 20px;
+}
+
+#cabecera {
+  font-size: 60px;
+  color: yellow;
+  background-color: red;
+}
+/*# sourceMappingURL=main.css.map */

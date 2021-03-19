@@ -1,0 +1,24 @@
+body {
+  color: white;
+  font-family: arial;
+  text-align: center;
+  background: blue;
+}
+
+#container {
+  width: 70%;
+  padding: 1en;
+  text-align: left;
+  border: 1px solid red;
+  margin: 0 auto;
+
+  h1 {
+    font-size: 20px;
+  }
+}
+
+#cabecera {
+  font-size: 60px;
+  color: yellow;
+  background-color: red;
+}
